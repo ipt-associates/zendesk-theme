@@ -1,7 +1,7 @@
 {
-  "name": "Evoko theme",
+  "name": "IPT Evoko theme",
   "author": "Evoko Unlimited AB",
-  "version": "2.0.4",
+  "version": "2.1.0",
   "api_version": 1,
   "default_locale": "en-us",
   "settings": [
@@ -13,7 +13,7 @@
           "type": "color",
           "description": "brand_color_description",
           "label": "brand_color_label",
-          "value": "#0072EF"
+          "value": "#587297"
         },
         {
           "identifier": "brand_text_color",
