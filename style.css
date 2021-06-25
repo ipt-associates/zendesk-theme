@@ -1275,7 +1275,9 @@ input[type=submit][disabled] {
 		flex-direction: row
 	}
 }
-
+.articles {
+    text-align: center
+}
 .promoted-articles-item {
 	flex: 1 0 auto
 }
